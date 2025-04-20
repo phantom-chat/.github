@@ -54,4 +54,4 @@ We’re a diverse team of developers, designers, and problem-solvers who are pas
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/phantom-chat/.github/blob/main/LICENSE) file for details.
