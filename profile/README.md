@@ -1,4 +1,4 @@
-# Phantom API
+# Phantom Chat
 
 Phantom is a modern, real-time messaging application built with a focus on performance, scalability, and developer experience.
 
